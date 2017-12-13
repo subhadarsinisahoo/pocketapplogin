@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.nasaacademy.nasa" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PocketApp Client Login</name>
+    <name>Pocket App</name>
     <description>
         This is a official App for clients of PocketApp.in
     </description>
